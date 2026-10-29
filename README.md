@@ -279,8 +279,5 @@ Remaining methodology steps:
 
 **Sajid**
 CSE, United International University (UIU), Dhaka, Bangladesh
-GitHub: [@your-username](https://github.com/your-username) · LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
 
-## License
 
-Released under the [MIT License](LICENSE). *(Add a `LICENSE` file, or change this line to the license you prefer.)*
