@@ -161,7 +161,7 @@ Deferring the least-confident ~14% of cases raises accuracy on the remainder fro
 ### Error analysis (Step 12)
 
 <div align="center">
-  <img src="Results/DenseNet-121/Confusion%20Matrix.png" alt="Confusion matrix" width="560"/>
+  <img src="assets/Confusion Matrix.png" alt="Confusion matrix" width="560"/>
 </div>
 
 The dominant error mode is confusion with the heterogeneous **"Other"** class: 24 abdomen, 14 femur, and 11 thorax images were predicted as "Other", and 47 "Other" images were assigned to a specific plane. Fetal brain and maternal cervix are classified almost perfectly.
